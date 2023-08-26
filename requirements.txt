@@ -1,4 +1,8 @@
-streamlit==1.24.0
-langchain==0.0.221
+streamlit==1.25.0
+langchain==0.0.271
 python-dotenv
 openai
+watchdog
+unstructured
+sentence_transformers
+chromadb
