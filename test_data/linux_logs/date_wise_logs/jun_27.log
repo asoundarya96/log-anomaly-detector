@@ -1,0 +1,10 @@
+Jun 27 04:02:47 combo su(pam_unix)[7031]: session opened for user cyrus by (uid=0)
+Jun 27 04:02:48 combo su(pam_unix)[7031]: session closed for user cyrus
+Jun 27 04:02:49 combo logrotate: ALERT exited abnormally with [1]
+Jun 27 04:08:56 combo su(pam_unix)[8269]: session opened for user news by (uid=0)
+Jun 27 04:08:57 combo su(pam_unix)[8269]: session closed for user news
+Jun 27 08:05:37 combo sshd(pam_unix)[8660]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com  user=root
+Jun 27 08:05:39 combo sshd(pam_unix)[8664]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com  user=root
+Jun 27 08:05:39 combo sshd(pam_unix)[8663]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com  user=root
+Jun 27 08:05:39 combo sshd(pam_unix)[8662]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com  user=root
+Jun 27 08:05:39 combo sshd(pam_unix)[8661]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com  user=root

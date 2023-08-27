@@ -1,0 +1,54 @@
+On June 14th at 15:16:01, there was an authentication failure for the sshd service on the combo server from IP address 218.188.2.4. 
+At 15:16:02, there was a check pass for an unknown user, followed by another authentication failure from the same IP address.
+On June 28th, there were multiple sessions opened and closed for users "cyrus" and "news" on the "combo" server. Additionally, there were authentication failures for the user "root" from the IP address 61.53.154.93 on the same day.
+On June 15th, there were multiple authentication failures for the user "root" from the host "220-135-151-1.hinet-ip.hinet.net" on the SSH server. There were also sessions opened and closed for the user "cyrus" and an abnormal exit for the logrotate process. Additionally, there were multiple authentication failures for unknown users from the host "218.188.2.4" on the SSH server. Finally, there were multiple authentication failures for unknown users from the host "061092085098.ctinets.com" and "d211-116-254-214.rev.krline.net" on the SSH server.
+On June 17, 2005, at 04:03:33, a session was opened for user cyrus on the combo server. The session was closed at 04:03:34. At 04:03:36, the logrotate process exited abnormally. At 04:09:43, a session was opened for user news, and it was closed at 04:09:45. At 07:07:00, multiple FTP connections were made from IP address 24.54.76.216. These connections continued until 07:07:04. At 19:43:13, there was an authentication failure for the user guest from IP address 211.46.224.253. At 20:29:26, a session was opened for user test, and it was closed at 20:34:57. At 20:55:06, multiple FTP connections were made from IP address 82.252.162.81. These connections continued until 20:55:07.
+On June 16th, at 04:10:22, a session was opened for the user "cyrus" on the system "combo" by the user with UID 0. The session was closed at 04:10:23. At 04:10:24, the logrotate process on "combo" exited abnormally with an error code of 1. Later, at 04:16:17, a session was opened for the user "news" by the user with UID 0, and it was closed at 04:16:18.
+On June 27th, the following events occurred on the "combo" Linux system:
+
+- At 04:02:47, a session was opened for the user "cyrus" by the root user.
+- At 04:02:48, the session for the user "cyrus" was closed.
+- At 04:02:49, the logrotate process exited abnormally with an alert.
+- At 04:08:56, a session was opened for the user "news" by the root user.
+- At 04:08:57, the session for the user "news" was closed.
+- At 08:05:37, there was an authentication failure for the root user attempting to log in via SSH from the host "troi.bluesky-technologies.com".
+- Multiple authentication failures for the root user occurred at 08:05:39 from the same host.
+On June 26, the following events occurred on the "combo" Linux system:
+- A session was opened for user "cyrus" by the root user.
+- The session for user "cyrus" was closed.
+- The cupsd service was successfully shut down.
+- The cupsd service was successfully started.
+- The syslogd service was restarted.
+- The logrotate service exited abnormally with an alert.
+- A session was opened for user "news" by the root user.
+- The session for user "news" was closed.
+On June 18, there were multiple failed authentication attempts on the combo server using SSH. The log shows that the user was unknown and the authentication failure occurred from the host adsl-70-242-75-179.dsl.ksc2mo.swbell.net. Later, there were multiple FTP connections from the IP address 82.252.162.81. Some of these connections timed out after 900 seconds. There were also sessions opened and closed for the users cyrus and news. The logrotate process exited abnormally with an alert.
+On June 24th, there were several events logged on the Linux system. 
+
+1. At 04:05:34, a session was opened for the user "cyrus" by the root user. 
+2. At 04:05:35, the session for the user "cyrus" was closed. 
+3. At 04:05:35, the logrotate process exited abnormally with an alert. 
+4. At 04:11:12, a session was opened for the user "news" by the root user. 
+5. At 04:11:12, the session for the user "news" was closed. 
+6. At 18:55:11, multiple FTP connections were made from the IP address 218.69.108.57. 
+7. At 18:55:18, more FTP connections were made from the same IP address.
+On June 25th, there were several events logged on the Linux system. 
+
+1. At 04:04:25, a session was opened for user cyrus and then closed.
+2. At 04:04:26, the logrotate process exited abnormally with an alert.
+3. At 04:10:34, a session was opened for user news and then closed.
+4. At 04:41:49, there were multiple authentication failures for unknown users attempting to SSH into the system.
+5. At 09:20:24, there were multiple FTP connections from the IP address 210.118.170.95.
+6. At 19:25:30, there were multiple FTP connections from the IP address 211.167.68.59.
+On June 19, at 04:08:55, a session was opened for user cyrus by the root user on the combo system. The session was later closed. At 04:08:57, the cupsd service was successfully shut down, followed by a successful startup at 04:09:02. The syslogd service was restarted at 04:09:11, and the logrotate service exited abnormally with an alert. Finally, at 04:15:18, a session was opened and closed for the user news by the root user.
+On June 21, there were multiple events logged on the "combo" Linux system. 
+
+1. At 04:06:57, a session was opened for the user "cyrus" by the root user.
+2. At 04:06:58, the session for the user "cyrus" was closed.
+3. At 04:06:59, the logrotate process exited abnormally with an alert.
+4. At 04:13:03, a session was opened for the user "news" by the root user.
+5. At 04:13:04, the session for the user "news" was closed.
+6. At 08:56:36, there were multiple authentication failures for the user "guest" from the IP address 217.60.212.66.
+On June 20, 2005, multiple FTP connections were made from IP address 222.33.90.199 to the server "combo". There were also sessions opened and closed for the users "cyrus" and "news". The logrotate process exited abnormally. Additionally, there were multiple authentication failures for unknown users attempting to SSH into the server from IP address 65.166.159.14.
+On June 22, there were multiple authentication failures for the user "root" on the SSH server. The log entries show the date and time of each failed attempt, along with the IP address of the host attempting to authenticate. Additionally, there were some sessions opened and closed for the users "cyrus" and "news". There were also multiple failed authentication attempts on the FTP server from the IP address 210.245.165.136.
+On June 23, there were multiple authentication failures for the user "guest" from the IP address 209.152.168.249. There were also authentication failures for the user "unknown" from the IP address 200.60.37.201. Additionally, there were sessions opened and closed for the users "cyrus" and "news". Finally, there were multiple authentication failures for the user "root" from the IP address 218.22.3.51.

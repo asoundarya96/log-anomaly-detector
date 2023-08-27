@@ -1,0 +1,38 @@
+Jun 20 03:40:59 combo ftpd[8829]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+Jun 20 03:40:59 combo ftpd[8824]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+Jun 20 03:40:59 combo ftpd[8828]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+Jun 20 03:40:59 combo ftpd[8822]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+Jun 20 03:40:59 combo ftpd[8833]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+Jun 20 03:40:59 combo ftpd[8827]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+Jun 20 03:40:59 combo ftpd[8823]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+Jun 20 03:40:59 combo ftpd[8825]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+Jun 20 03:40:59 combo ftpd[8826]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+Jun 20 03:40:59 combo ftpd[8832]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+Jun 20 03:40:59 combo ftpd[8830]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+Jun 20 03:40:59 combo ftpd[8831]: connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005
+Jun 20 04:02:54 combo su(pam_unix)[9187]: session opened for user cyrus by (uid=0)
+Jun 20 04:02:54 combo su(pam_unix)[9187]: session closed for user cyrus
+Jun 20 04:02:55 combo logrotate: ALERT exited abnormally with [1]
+Jun 20 04:08:37 combo su(pam_unix)[9558]: session opened for user news by (uid=0)
+Jun 20 04:08:38 combo su(pam_unix)[9558]: session closed for user news
+Jun 20 04:44:39 combo snmpd[2318]: Received SNMP packet(s) from 67.170.148.126
+Jun 20 09:20:05 combo sshd(pam_unix)[10035]: check pass; user unknown
+Jun 20 09:20:05 combo sshd(pam_unix)[10035]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+Jun 20 09:20:05 combo sshd(pam_unix)[10037]: check pass; user unknown
+Jun 20 09:20:05 combo sshd(pam_unix)[10037]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+Jun 20 09:20:05 combo sshd(pam_unix)[10039]: check pass; user unknown
+Jun 20 09:20:05 combo sshd(pam_unix)[10039]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+Jun 20 09:20:06 combo sshd(pam_unix)[10041]: check pass; user unknown
+Jun 20 09:20:06 combo sshd(pam_unix)[10041]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+Jun 20 09:20:07 combo sshd(pam_unix)[10043]: check pass; user unknown
+Jun 20 09:20:07 combo sshd(pam_unix)[10043]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+Jun 20 09:20:07 combo sshd(pam_unix)[10045]: check pass; user unknown
+Jun 20 09:20:07 combo sshd(pam_unix)[10045]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+Jun 20 09:20:07 combo sshd(pam_unix)[10047]: check pass; user unknown
+Jun 20 09:20:07 combo sshd(pam_unix)[10047]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+Jun 20 09:20:07 combo sshd(pam_unix)[10049]: check pass; user unknown
+Jun 20 09:20:07 combo sshd(pam_unix)[10049]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+Jun 20 09:20:08 combo sshd(pam_unix)[10051]: check pass; user unknown
+Jun 20 09:20:08 combo sshd(pam_unix)[10051]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14
+Jun 20 09:20:08 combo sshd(pam_unix)[10053]: check pass; user unknown
+Jun 20 09:20:08 combo sshd(pam_unix)[10053]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14

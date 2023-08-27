@@ -1,0 +1,18 @@
+Jun 24 04:05:34 combo su(pam_unix)[26938]: session opened for user cyrus by (uid=0)
+Jun 24 04:05:35 combo su(pam_unix)[26938]: session closed for user cyrus
+Jun 24 04:05:35 combo logrotate: ALERT exited abnormally with [1]
+Jun 24 04:11:12 combo su(pam_unix)[27311]: session opened for user news by (uid=0)
+Jun 24 04:11:12 combo su(pam_unix)[27311]: session closed for user news
+Jun 24 18:55:11 combo ftpd[28568]: connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005
+Jun 24 18:55:11 combo ftpd[28566]: connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005
+Jun 24 18:55:11 combo ftpd[28562]: connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005
+Jun 24 18:55:11 combo ftpd[28563]: connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005
+Jun 24 18:55:11 combo ftpd[28565]: connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005
+Jun 24 18:55:11 combo ftpd[28564]: connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005
+Jun 24 18:55:11 combo ftpd[28567]: connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005
+Jun 24 18:55:18 combo ftpd[28570]: connection from 218.69.108.57 () at Fri Jun 24 18:55:18 2005
+Jun 24 18:55:18 combo ftpd[28571]: connection from 218.69.108.57 () at Fri Jun 24 18:55:18 2005
+Jun 24 18:55:18 combo ftpd[28569]: connection from 218.69.108.57 () at Fri Jun 24 18:55:18 2005
+Jun 24 18:55:18 combo ftpd[28572]: connection from 218.69.108.57 () at Fri Jun 24 18:55:18 2005
+Jun 24 18:55:18 combo ftpd[28574]: connection from 218.69.108.57 () at Fri Jun 24 18:55:18 2005
+Jun 24 18:55:18 combo ftpd[28573]: connection from 218.69.108.57 () at Fri Jun 24 18:55:18 2005

@@ -1,0 +1,8 @@
+Jun 19 04:08:55 combo su(pam_unix)[2192]: session opened for user cyrus by (uid=0)
+Jun 19 04:08:55 combo su(pam_unix)[2192]: session closed for user cyrus
+Jun 19 04:08:57 combo cups: cupsd shutdown succeeded
+Jun 19 04:09:02 combo cups: cupsd startup succeeded
+Jun 19 04:09:11 combo syslogd 1.4.1: restart.
+Jun 19 04:09:11 combo logrotate: ALERT exited abnormally with [1]
+Jun 19 04:15:18 combo su(pam_unix)[3676]: session opened for user news by (uid=0)
+Jun 19 04:15:18 combo su(pam_unix)[3676]: session closed for user news

@@ -1,0 +1,56 @@
+Jun 25 04:04:25 combo su(pam_unix)[29690]: session opened for user cyrus by (uid=0)
+Jun 25 04:04:25 combo su(pam_unix)[29690]: session closed for user cyrus
+Jun 25 04:04:26 combo logrotate: ALERT exited abnormally with [1]
+Jun 25 04:10:34 combo su(pam_unix)[30934]: session opened for user news by (uid=0)
+Jun 25 04:10:35 combo su(pam_unix)[30934]: session closed for user news
+Jun 25 04:41:49 combo sshd(pam_unix)[31031]: check pass; user unknown
+Jun 25 04:41:49 combo sshd(pam_unix)[31031]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+Jun 25 04:41:49 combo sshd(pam_unix)[31035]: check pass; user unknown
+Jun 25 04:41:49 combo sshd(pam_unix)[31035]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+Jun 25 04:41:49 combo sshd(pam_unix)[31034]: check pass; user unknown
+Jun 25 04:41:49 combo sshd(pam_unix)[31034]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+Jun 25 04:41:49 combo sshd(pam_unix)[31036]: check pass; user unknown
+Jun 25 04:41:49 combo sshd(pam_unix)[31036]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+Jun 25 04:41:51 combo sshd(pam_unix)[31025]: check pass; user unknown
+Jun 25 04:41:51 combo sshd(pam_unix)[31025]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+Jun 25 04:41:51 combo sshd(pam_unix)[31028]: check pass; user unknown
+Jun 25 04:41:51 combo sshd(pam_unix)[31028]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+Jun 25 04:41:51 combo sshd(pam_unix)[31020]: check pass; user unknown
+Jun 25 04:41:51 combo sshd(pam_unix)[31020]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+Jun 25 04:41:51 combo sshd(pam_unix)[31027]: check pass; user unknown
+Jun 25 04:41:51 combo sshd(pam_unix)[31027]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+Jun 25 04:41:51 combo sshd(pam_unix)[31021]: check pass; user unknown
+Jun 25 04:41:51 combo sshd(pam_unix)[31021]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+Jun 25 04:41:51 combo sshd(pam_unix)[31024]: check pass; user unknown
+Jun 25 04:41:51 combo sshd(pam_unix)[31024]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org
+Jun 25 09:20:24 combo ftpd[31475]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+Jun 25 09:20:24 combo ftpd[31477]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+Jun 25 09:20:24 combo ftpd[31474]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+Jun 25 09:20:24 combo ftpd[31476]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+Jun 25 09:20:24 combo ftpd[31473]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+Jun 25 09:20:24 combo ftpd[31467]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+Jun 25 09:20:24 combo ftpd[31470]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+Jun 25 09:20:24 combo ftpd[31465]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+Jun 25 09:20:24 combo ftpd[31472]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+Jun 25 09:20:24 combo ftpd[31468]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+Jun 25 09:20:24 combo ftpd[31463]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+Jun 25 09:20:24 combo ftpd[31471]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+Jun 25 09:20:24 combo ftpd[31469]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+Jun 25 09:20:24 combo ftpd[31462]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+Jun 25 09:20:24 combo ftpd[31464]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+Jun 25 09:20:24 combo ftpd[31466]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+Jun 25 09:20:24 combo ftpd[31461]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+Jun 25 09:20:24 combo ftpd[31460]: connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005
+Jun 25 19:25:30 combo ftpd[32328]: connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005
+Jun 25 19:25:30 combo ftpd[32329]: connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005
+Jun 25 19:25:30 combo ftpd[32324]: connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005
+Jun 25 19:25:30 combo ftpd[32326]: connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005
+Jun 25 19:25:30 combo ftpd[32323]: connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005
+Jun 25 19:25:30 combo ftpd[32327]: connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005
+Jun 25 19:25:30 combo ftpd[32325]: connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005
+Jun 25 19:25:30 combo ftpd[32331]: connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005
+Jun 25 19:25:30 combo ftpd[32330]: connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005
+Jun 25 19:25:31 combo ftpd[32333]: connection from 211.167.68.59 () at Sat Jun 25 19:25:31 2005
+Jun 25 19:25:31 combo ftpd[32332]: connection from 211.167.68.59 () at Sat Jun 25 19:25:31 2005
+Jun 25 19:25:31 combo ftpd[32334]: connection from 211.167.68.59 () at Sat Jun 25 19:25:31 2005
+Jun 25 19:25:34 combo ftpd[32335]: connection from 211.167.68.59 () at Sat Jun 25 19:25:34 2005

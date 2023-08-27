@@ -1,0 +1,23 @@
+Jun 17 04:03:33 combo su(pam_unix)[27953]: session opened for user cyrus by (uid=0)
+Jun 17 04:03:34 combo su(pam_unix)[27953]: session closed for user cyrus
+Jun 17 04:03:36 combo logrotate: ALERT exited abnormally with [1]
+Jun 17 04:09:43 combo su(pam_unix)[29190]: session opened for user news by (uid=0)
+Jun 17 04:09:45 combo su(pam_unix)[29190]: session closed for user news
+Jun 17 07:07:00 combo ftpd[29504]: connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005
+Jun 17 07:07:00 combo ftpd[29508]: connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005
+Jun 17 07:07:00 combo ftpd[29507]: connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005
+Jun 17 07:07:00 combo ftpd[29505]: connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005
+Jun 17 07:07:00 combo ftpd[29506]: connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005
+Jun 17 07:07:00 combo ftpd[29509]: connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005
+Jun 17 07:07:02 combo ftpd[29510]: connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:02 2005
+Jun 17 07:07:04 combo ftpd[29511]: connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:04 2005
+Jun 17 19:43:13 combo sshd(pam_unix)[30565]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.46.224.253  user=guest
+Jun 17 20:29:26 combo sshd(pam_unix)[30631]: session opened for user test by (uid=509)
+Jun 17 20:34:57 combo sshd(pam_unix)[30631]: session closed for user test
+Jun 17 20:55:06 combo ftpd[30755]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:06 2005
+Jun 17 20:55:06 combo ftpd[30754]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:06 2005
+Jun 17 20:55:06 combo ftpd[30753]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:06 2005
+Jun 17 20:55:06 combo ftpd[30756]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:06 2005
+Jun 17 20:55:06 combo ftpd[30757]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:06 2005
+Jun 17 20:55:07 combo ftpd[30758]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:07 2005
+Jun 17 20:55:07 combo ftpd[30759]: connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:07 2005

@@ -1,0 +1,5 @@
+Jun 16 04:10:22 combo su(pam_unix)[25178]: session opened for user cyrus by (uid=0)
+Jun 16 04:10:23 combo su(pam_unix)[25178]: session closed for user cyrus
+Jun 16 04:10:24 combo logrotate: ALERT exited abnormally with [1]
+Jun 16 04:16:17 combo su(pam_unix)[25548]: session opened for user news by (uid=0)
+Jun 16 04:16:18 combo su(pam_unix)[25548]: session closed for user news

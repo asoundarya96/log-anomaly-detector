@@ -11,35 +11,15 @@ from src.modules.models import load_chat_model
 
 chain = None
 
-QA_CHAIN_PROMPT = PromptTemplate(input_variables=["question", "answer"], template="""
-Question: {question} \n
-{answer}
-""")
+prompt_template = """
+Consider you are a SRE, who can monitor and observe application using given context.
+Use below context to answer the following questions.
+{context}
+Question: {question}
+Answer """
 
-examples = [
-    {
-        "question": "Identify the anomalies on Jun 20",
-        "answer": '''
-            1. Abnormal exit has occured 1 times
-            2. Authentication failures has occured 10 times. This looks like suspicious activity leading towards unauthorized access
-        '''
-    }
-]
-
-prompt = FewShotPromptTemplate(
-    examples=examples,
-    example_prompt=QA_CHAIN_PROMPT,
-    input_variables=["question", "context"],
-    prefix='''
-    Use below context to answer the following questions.
-    {context}
-    
-    Consider you are a SRE, who can monitor and observe application using given context logs.
-    if user asks about state of system, list down all the unique events happened during that time period in logs. 
-    ''',
-    suffix='''
-    Question: {question} \n
-    '''
+QA_CHAIN_PROMPT = PromptTemplate(
+    template=prompt_template, input_variables=["context", "question"]
 )
 
 
@@ -59,7 +39,7 @@ def get_answer(query):
     global chain
     if chain is None:
         llm = load_chat_model(os.getenv('OPENAI_API_KEY'), "gpt-3.5-turbo")
-        chain_type_kwargs = {"prompt": prompt}
+        chain_type_kwargs = {"prompt": QA_CHAIN_PROMPT}
         chain = RetrievalQA.from_chain_type(llm, retriever=load_log_data().as_retriever(),
                                             chain_type_kwargs=chain_type_kwargs)
     answer = chain({"query": query})
@@ -67,7 +47,8 @@ def get_answer(query):
 
 
 def load_log_data():
-    documents = load_docs("test_data/linux_logs")
-    docs = split_docs(documents)
+    documents = load_docs("test_data/linux_logs/summaries")
+    print(documents)
+    # docs = split_docs(documents)
     embeddings = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
-    return Chroma.from_documents(docs, embeddings)
+    return Chroma.from_documents(documents, embeddings)
